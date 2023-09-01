@@ -3,8 +3,8 @@
     padding: 0;
 }
 .cabeçalho{
-    background-color: rgb(228, 97, 9);
-    color: rgb(0, 0, 0);
+    background-color: rgba(184, 91, 5, 0.705);
+    color: rgb(29, 16, 2);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -23,7 +23,7 @@
     }
     .escola{
         background-image: linear-gradient(#A0522D,#F4A460);
-        color: rgb(0, 0, 0);
+        color: rgb(29, 14, 2);
         display: flex;
         justify-content: center;
         align-items: center;
@@ -34,4 +34,7 @@
     }
     .escola-titulo{
         padding: 24px 0;
+    }
+    body{
+        font-family: 'Dancing Script', cursive;
     }
