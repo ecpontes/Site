@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabeçalho{
+    background-color: rgba(184, 91, 5, 0.705);
+    color: rgb(29, 16, 2);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 24px 0;
+    padding: 0 16%;
+    }
+    .cabeçalho-imagem{
+        width: 20%;
+    }
+    .cabeçalho-lista-item{
+        display: inline-block;
+        margin: 0 16px;
+    }
+    .escola-imagem{
+        width: 40%;
+    }
+    .escola{
+        background-image: linear-gradient(#A0522D,#F4A460);
+        color: rgb(29, 14, 2);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 24px 0;
+    }
+    .escola-div-conteudo{
+        width: 35%;
+    }
+    .escola-titulo{
+        padding: 24px 0;
+    }
+    body{
+        font-family: 'Dancing Script', cursive;
+    }
+    .estudante-titulo{
+        text-align: center;
+        padding: 70px;
+    }
+    .estudante-div{
+        text-align: center;
+    }
+    .estudante-imagem1{
+        width:  120px;
+        height: 100px;
+    }
+    .estudante-imagem2{
+        width: 120px;
+        height: 100px;
+    }
+    .estudante-imagem3{
+        width: 120px;
+        height: 100px;
+    }
+    .estudante-imagem4{
+        width: 120px;
+        height: 100px;
+    }
+    .estudante-imagem5{
+        width: 120px;
+        height: 100px;
+    }
+    .estudante-imagem6{
+        width: 120px;
+        height: 100px;
+    }
+    .estudante-imagem7{
+        width: 120px;
+        height: 100px;
+    }
+    .estudante-imagem8{
+        width: 120px;
+        height: 100px;
+    }
+
+    .estudante-icone1{
+        width: 20px;
+    }
+    .estudante-icone2{
+        width: 20px;
+    }
+    .estudante-icone3{
+        width: 20px;
+    }
